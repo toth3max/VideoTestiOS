@@ -1,5 +1,5 @@
 # VideoTestiOS
-Start video playback while donwloading the video. Tested on Android. 
+Start video playback while donwloading the video. Tested on iOS and Android. 
 
 Find video URLs:
 * https://www.radiantmediaplayer.com/test-your-streaming-url.html
