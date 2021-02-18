@@ -1,5 +1,5 @@
 # VideoTestiOS
-Start video playback while donwloading the video. Tested on iOS and Android. 
+Start video playback while downloading the video and saving it locally. Tested on iOS and Android. Beware, dirty party code!
 
 Find video URLs:
 * https://www.radiantmediaplayer.com/test-your-streaming-url.html
